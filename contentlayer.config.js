@@ -76,7 +76,7 @@ const Blog = defineDocumentType(() => ({
 }));
 
 const codeOptions = {
-  theme: "dracula",
+  theme: "github-dark",
   grid: false,
 };
 

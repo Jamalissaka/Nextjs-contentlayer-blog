@@ -6,7 +6,7 @@ const siteMetadata = {
   description: "Blogging about new technology, social life and updates",
   language: "en-us",
   theme: "system", // system, dark or light
-  siteUrl: "https://create-blog-with-nextjs.vercel.app", // your website URL
+  siteUrl: "https://jmz-blog.vercel.app", // your website URL
   siteLogo: "/profile-img.png",
   socialBanner: "/social-banner.png", // add social banner in the public folder
   email: "jamelissaka@gmail.com",
